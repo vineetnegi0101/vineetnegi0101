@@ -1,67 +1,77 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Vineet Negi
 
-## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist
+## 🚀 DevOps Engineer | Cloud Specialist | Automation Expert
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vineet-negi)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:vineet.negi@mcsquared.ai)
+
+### 🏢 Current Role
+**DevOps Engineer** at CloudThat Technologies Pvt. Ltd  
+📍 Bengaluru, India  
+⏳ 3+ Years of Experience
 
 ### 🛠️ Tech Stack
 
-- **Cloud Platforms**: AWS, Azure, GCP
-- **Infrastructure as Code**: Terraform, CloudFormation
+- **Cloud Platforms**: AWS, Red Hat OpenShift
+- **Infrastructure as Code**: Terraform, Ansible
 - **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Scripting**: Python, Bash, PowerShell
-- **Version Control**: Git, GitHub, GitLab
-
-### 💼 Professional Experience
-
-- **Current Role**: DevOps Engineer at [Company Name]
-- **Key Responsibilities**:
-  - Implementing and maintaining CI/CD pipelines
-  - Managing cloud infrastructure
-  - Automating deployment processes
-  - Ensuring system reliability and scalability
-  - Implementing monitoring and logging solutions
+- **CI/CD**: Jenkins, GitLab
+- **Monitoring**: Prometheus, Grafana
+- **Operating Systems**: Ubuntu, RedHat, CentOS
+- **Programming**: Python
+- **DevOps Tools**: Linux, Git
 
 ### 🏆 Certifications
 
-- AWS Certified DevOps Engineer
-- Kubernetes Administrator (CKA)
-- Terraform Associate
-- [Add other relevant certifications]
+- Red Hat Certified System Administrator (RHCSA)
+- Red Hat Certified Specialist in Ansible Automation
+- Red Hat OpenShift Administrator
+- Red Hat Certified Engineer (EX294)
+
+### 💼 Professional Experience
+
+#### DevOps Engineer at CloudThat Technologies Pvt. Ltd (Jan 2022 - Present)
+- Implemented cloud infrastructure automation using Terraform
+- Modernized application delivery with S3-hosted NodeJS applications
+- Developed secure and scalable EKS infrastructure
+- Streamlined environment hardening and deployment processes
+- Automated security compliance using AWS Lambda and SSM
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetnegi0101&show_icons=true&theme=radical)
 
 ### 🌟 Featured Projects
 
-1. **Project Name**
-   - Brief description of the project
-   - Technologies used
-   - [Link to project]
+1. **Cloud Infrastructure Automation**
+   - Implemented modular Terraform code
+   - Configured VPC and RDS Serverless V2 Aurora
+   - Enhanced infrastructure scalability
 
-2. **Project Name**
-   - Brief description of the project
-   - Technologies used
-   - [Link to project]
+2. **Application Delivery Modernization**
+   - Optimized Python and ReactJS code
+   - Implemented robust authentication
+   - Leveraged DynamoDB for AI data processing
+
+3. **EKS Infrastructure Development**
+   - Deployed secure EKS clusters
+   - Implemented EBS encryption
+   - Set up Fluent Bit logging
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourHandle]
-- Email: your.email@example.com
+- LinkedIn: [Vineet Negi](https://linkedin.com/in/vineet-negi)
+- Email: vineet.negi@mcsquared.ai
+- Phone: +91 6361154539
 
 ### 🎯 Current Focus
 
-- Learning and implementing GitOps practices
-- Exploring cloud-native technologies
-- Contributing to open-source projects
-- [Add other current interests]
+- Cloud Infrastructure Automation
+- DevSecOps Implementation
+- Kubernetes and Container Orchestration
+- Infrastructure as Code (IaC)
+- System Security and Compliance
 
 ---
 
-⭐️ From [Your Name]
+⭐️ From [Vineet Negi](https://github.com/vineetnegi0101)
