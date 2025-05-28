@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vineet Negi
+# �� Hi there, I'm Vineet Negi
 
 ## 🚀 DevOps Engineer | Cloud Specialist | Automation Expert
 
@@ -9,6 +9,41 @@
 **DevOps Engineer** at CloudThat Technologies Pvt. Ltd  
 📍 Bengaluru, India  
 ⏳ 3+ Years of Experience
+
+### 🎯 Key Projects & Impact
+
+#### 1. Cloud Infrastructure Automation
+- Streamlined cloud infrastructure automation using Terraform
+- Implemented modular code and configured VPC
+- Launched RDS Serverless V2 Aurora
+- Utilized AWS DevOps tools for seamless CI/CD
+
+#### 2. Application Delivery Modernization
+- Modernized S3-hosted NodeJS web applications
+- Implemented robust authentication
+- Optimized Python and ReactJS code
+- Reduced Lambda billable duration
+- Leveraged DynamoDB for AI data processing
+- Enhanced search capabilities with OpenSearch
+
+#### 3. EKS Infrastructure Development
+- Built secure and scalable EKS infrastructure
+- Handled peak traffic without downtime
+- Deployed EKS clusters using eksctl CLI
+- Implemented bastion host for secure access
+- Configured EBS encryption for data protection
+- Set up Fluent Bit logging for centralized visibility
+
+#### 4. Environment Hardening and Deployment
+- Streamlined CIS hardening of Ubuntu environments
+- Built EC2 Image Builder pipeline
+- Created multi-account AMI creation
+- Implemented auto-tracking Lambda functions
+
+#### 5. System Security and Compliance
+- Automated remediation of critical Security Hub rules
+- Utilized AWS Lambda and SSM documents
+- Ensured proactive system security
 
 ### 🛠️ Tech Stack
 
@@ -28,35 +63,9 @@
 - Red Hat OpenShift Administrator
 - Red Hat Certified Engineer (EX294)
 
-### 💼 Professional Experience
-
-#### DevOps Engineer at CloudThat Technologies Pvt. Ltd (Jan 2022 - Present)
-- Implemented cloud infrastructure automation using Terraform
-- Modernized application delivery with S3-hosted NodeJS applications
-- Developed secure and scalable EKS infrastructure
-- Streamlined environment hardening and deployment processes
-- Automated security compliance using AWS Lambda and SSM
-
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetnegi0101&show_icons=true&theme=radical)
-
-### 🌟 Featured Projects
-
-1. **Cloud Infrastructure Automation**
-   - Implemented modular Terraform code
-   - Configured VPC and RDS Serverless V2 Aurora
-   - Enhanced infrastructure scalability
-
-2. **Application Delivery Modernization**
-   - Optimized Python and ReactJS code
-   - Implemented robust authentication
-   - Leveraged DynamoDB for AI data processing
-
-3. **EKS Infrastructure Development**
-   - Deployed secure EKS clusters
-   - Implemented EBS encryption
-   - Set up Fluent Bit logging
 
 ### 📫 How to Reach Me
 
