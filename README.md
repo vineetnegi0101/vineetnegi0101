@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:vineet.negi@mcsquared.ai)
 
 ### 🏢 Current Role
-**DevOps Engineer** at CloudThat Technologies Pvt. Ltd  
+**DevOps Engineer** at McSquaredAI Pvt. Ltd  
 📍 Bengaluru, India  
 ⏳ 3+ Years of Experience
 
