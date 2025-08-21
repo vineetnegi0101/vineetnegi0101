@@ -63,10 +63,6 @@
 - Red Hat OpenShift Administrator
 - Red Hat Certified Engineer (EX294)
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetnegi0101&show_icons=true&theme=radical)
-
 ### 📫 How to Reach Me
 
 - LinkedIn: [Vineet Negi](https://linkedin.com/in/vineet-negi)
