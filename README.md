@@ -1,4 +1,4 @@
-# �� Hi there, I'm Vineet Negi
+# Hi there, I'm Vineet Negi
 
 ## 🚀 DevOps Engineer | Cloud Specialist | Automation Expert
 
@@ -76,6 +76,7 @@
 - Kubernetes and Container Orchestration
 - Infrastructure as Code (IaC)
 - System Security and Compliance
+- AIOPS ENGINEER
 
 ---
 
